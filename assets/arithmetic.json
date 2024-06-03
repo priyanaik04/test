@@ -1,0 +1,89 @@
+[
+    {
+        "0":"A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+        "1":"If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+        "2":"A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+        "3":"What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+        "4":"In how many ways can the letters of the word 'LEADER' be arranged?", 
+        "5":"A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is: ",
+        "6":"Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case. ",
+        "7":"In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs? ",
+        "8":"What is the probability of getting a sum 9 from two throws of a dice? ",
+        "9":"The ratio between the perimeter and the breadth of a rectangle is 5 : 1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?"
+    },
+    {
+        "0": {
+            "a": "3.6",
+            "b": "7.2",
+            "c": "8.4",
+            "d": "10"
+        },
+        "1": {
+            "a": "50 km",
+            "b": "56 km",
+            "c": "70 km",
+            "d": "80 km"
+        },
+        "2": {
+            "a": "588 apples",
+            "b": "600 apples",
+            "c": "672 apples",
+            "d": "700 apples"
+        },
+        "3": {
+            
+            "a": "1",
+            "b": "14",
+            "c": "20",
+            "d": "21"
+        },
+        "4": {
+            "a": "72",
+            "b": "144",
+            "c": "360",
+            "d": "None of above"
+        },
+        "5": {
+            "a": "Rs. 650",
+            "b": "Rs. 690",
+            "c": "Rs. 698",
+            "d": "Rs. 700"
+        },
+        "6": {
+            "a": "4",
+            "b": "7",
+            "c": "9",
+            "d": "13"
+        },
+        "7": {
+            "a": "6.25",
+            "b": "6.5",
+            "c": "6.75",
+            "d": "7"
+        },
+        "8": {
+            "a": "1/6",
+            "b": "1/8",            
+            "c": "1/9",
+            "d": "1/12"
+        },
+        "9": {
+            "a": "16",
+            "b": "18",
+            "c": "26",
+            "d": "None of these"
+        }
+    },
+    {
+        "0": "7.2",
+        "1": "50",
+        "2": "700 apples",
+        "3": "20",
+        "4": "360",
+        "5": "698",
+        "6": "4",
+        "7": "6.25",
+        "8": "1/9",
+        "9": "18"
+    }
+]

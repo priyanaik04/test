@@ -1,0 +1,88 @@
+[
+    {
+        "0": "What Will Be The Output Of the Following Code ?\na = \"p\" * 3\nprint(a)",
+        "1": "What is the difference between a list and a tuple in Python?",
+        "2": "How do you open a file for reading in Python?",
+        "3": "What is the output of the following code: \"hello\" * 3?",
+        "4": "How do you check if a key exists in a Python dictionary?",
+        "5": "What is the purpose of the init() method in Python classes?",
+        "6": "Which of the following is a valid way to define a function in Python?",
+        "7": "What is the difference between an instance method and a class method in Python?",
+        "8": "What is the output of the following code: [x**2 for x in range(5) if x % 2 == 0]?",
+        "9": "Which of the following keyword is used to define a function in Python ?"
+    },
+    {
+        "0": {
+            "a": "pp",
+            "b": "ppp",
+            "c": "3p",
+            "d": "p3"
+        },
+        "1": {
+            "a": "A list is immutable, while a tuple is mutable",
+            "b": "A list can store elements of different data types, while a tuple can only store elements of the same data typA list is ordered, while a tuple is unordered",
+            "c": "A list is ordered, while a tuple is unordered",
+            "d": "A list is created using parentheses (), while a tuple is created using square brackets []"
+        },
+        "2": {
+            "a": "file = open(\"filename.txt\", \"w\")",
+            "b": "file = open(\"filename.txt\", \"r\")",
+            "c": "file = open(\"filename.txt\", \"a\")",
+            "d": "file = open(\"filename.txt\", \"x\")"
+        },
+        "3": {
+            "a": "hellohellohellohello",
+            "b": "hellohellohello",
+            "c": "hello 3",
+            "d": "hello"
+        },
+        "4": {
+            "a": "Use the in operator with the dictionary key",
+            "b": "Use the get() method with the dictionary key",
+            "c": "Use the keys() method with the dictionary",
+            "d": "Use the values() method with the dictionary"
+        },
+        "5": {
+            "a": "It is used to create a new instance of the class",
+            "b": "It is used to define instance variables for the class",
+            "c": "It is used to define class variables for the class",
+            "d": "It is used to define instance methods for the class"
+        },
+        "6": {
+            "a": "function (a, b) { return a + b }",
+            "b": "def function (a, b) return a + b",
+            "c": "def function (a, b): return a + b",
+            "d": "function (a, b): return a + b"
+        },
+        "7": {
+            "a": "An instance method operates on a specific instance of the class, while a class method operates on the entire class",
+            "b": "An instance method is defined using the @classmethod decorator, while a class method is defined using the @instancemethod decorator",
+            "c": "An instance method can only be called on a specific instance of the class, while a class method can be called on the class itself",
+            "d": "An instance method has access to the class attributes, while a class method does not"
+        },
+        "8": {
+            "a": "[0, 4, 16]",
+            "b": "[1, 9, 25]",
+            "c": "[0, 1, 4, 9, 16]",
+            "d": "[2, 6]"
+        },
+        "9": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+    },
+    {
+        "0": "ppp",
+        "1": "A list can store elements of different data types, while a tuple can only store elements of the same data type",
+        "2": "file = open(\"filename.txt\", \"r\")",
+        "3": "hellohellohello",
+        "4": "Use the in operator with the dictionary key",
+        "5": "It is used to create a new instance of the class",
+        "6": "def function (a, b): return a + b",
+        "7": "An instance method can only be called on a specific instance of the class, while a class method can be called on the class itself",
+        "8": "[0, 4, 16]",
+        "9": "def"
+    }
+]

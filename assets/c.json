@@ -1,0 +1,84 @@
+[
+    {
+        "0":"What are the types of linkages?",
+        "1":"Which of the following is not logical operator?",
+        "2":"Which of the following correctly shows the hierarchy of arithmetic operations in C?",
+        "3":"What are the different types of real data type in C ?",
+        "4":"Is the NULL pointer same as an uninitialised pointer?",
+        "5":"The keyword used to transfer control from a function back to the calling function is",
+        "6":"Are the expression *ptr++ and ++*ptr are same?",
+        "7":"In C, if you pass an array as an argument to a function, what actually gets passed?",
+        "8":"Which of the following function sets first n characters of a string to a given character?",
+        "9":"Offset used in fseek() function call can be a negative number."
+    },
+    {
+        "0": {
+            "a": "Internal and External",
+            "b": "External, Internal and None",
+            "c": "External and None",
+            "d": "Internal"   
+        },
+        "1": {
+            "a": "&",
+            "b": "&&",
+            "c": "||",
+            "d": "!"
+        },
+        "2": {
+            "a": "/ + * -",
+            "b": "* - / +",
+            "c": "+ - / *",
+            "d": "/ * + -"
+
+        },
+        "3": {
+            "a": "float, double",
+            "b": "short int, double, long int",
+            "c": "float, double, long double",
+            "d": "double, long int, float"
+        },
+        "4": {
+            "a": "Yes",
+            "b": "No"
+            
+        },
+        "5": {   
+            "a": "switch",
+            "b": "goto",
+            "c": "go back",
+            "d": "return"
+        },
+        "6": {
+            "a": "True",
+            "b": "False"
+        },
+        "7": {
+            "a": "Value of elements in array",
+            "b": "First element of the array",
+            "c": "Base address of the array",
+            "d": "Address of the last element of array"
+        },
+        "8": {
+            "a": "strinit()",
+            "b": "strnset()",
+            "c": "strset()",
+            "d": "strcset()"
+        },
+        "9": {
+            "a": "True",
+            "b": "False"
+        }
+    },
+    {
+        "0": "External, Internal and None",
+        "1": "&",
+        "2": "/ * + -",
+        "3": "float, double, long double",
+        "4": "No",
+        "5": "return",
+        "6": "False",
+        "7": "Base address of the array",
+        "8": "strnset()",
+        "9": "True"
+    }  
+]
